@@ -1,26 +1,4 @@
----
-title: 快速入門 - 使用 Azure 入口網站建立 Linux VM
-description: 在本快速入門中，您將了解如何使用 Azure 入口網站來建立 Linux 虛擬機器。
-services: virtual-machines-linux
-documentationcenter: virtual-machines
-author: cynthn
-manager: gwallace
-editor: tysonn
-tags: azure-resource-manager
-ms.service: virtual-machines-linux
-ms.topic: quickstart
-ms.tgt_pltfrm: vm-linux
-ms.workload: infrastructure
-ms.date: 11/05/2019
-ms.author: cynthn
-ms.custom: mvc
-ms.openlocfilehash: 894fa2f3cda798a409db3ee8e9761c1702baf955
-ms.sourcegitcommit: 49cf9786d3134517727ff1e656c4d8531bbbd332
-ms.translationtype: HT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 11/13/2019
-ms.locfileid: "74035223"
----
+
 # <a name="quickstart-create-a-linux-virtual-machine-in-the-azure-portal"></a>快速入門：在 Azure 入口網站中建立 Linux 虛擬機器
 
 您可以透過 Azure 入口網站建立 Azure 虛擬機器 (VM)。 Azure 入口網站是以瀏覽器為基礎的使用者介面，可用來建立 Azure 資源。 本快速入門說明如何使用 Azure 入口網站，來部署執行 Ubuntu 18.04 LTS 的 Linux 虛擬機器 (VM)。 為了查看作用中的 VM，您還會以 SSH 連線至 VM，並安裝 NGINX 網頁伺服器。
